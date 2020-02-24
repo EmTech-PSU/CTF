@@ -1,6 +1,6 @@
 # Recon Module
 
-##Server to Scan: collinkleest.dynu.net
+## Server to Scan: collinkleest.dynu.net
 
 ### Challenge 1
 What kind of server am I running? 
