@@ -10,4 +10,4 @@ What kind of server am I running?
 What operating system am I running?
 
 ### Challenge 3
-Where is my hidden SSH PORT. 
+Where is my hidden SSH port?
