@@ -1,0 +1,5 @@
+Cipher Text: 0 1 0 0 0 1
+             0 1 1 1 0 0 
+  Answer XOR: 
+
+Hint: Two wrongs don't make a right, use the exclusive or operator!
