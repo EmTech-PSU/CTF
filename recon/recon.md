@@ -1,15 +1,15 @@
 # Recon Module
 
-## Server to Scan: collinkleest.dynu.net
+## Server to Scan: [collinkleest.dynu.net](collinkleest.dynu.net)
 
-### Challenge 1 (easy)
+### Challenge 1 *(novice)*
 What kind of server am I running? 
 
 
-### Challenge 2 (medium)
+### Challenge 2 *(intermediate)*
 What operating system am I running?
 
-### Challenge 3 (medium)
+### Challenge 3 *(intermediate)*
 What kind of web server am I running?
 
 ## Hint: use the nmap tool aka Network Mapper
